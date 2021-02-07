@@ -3,7 +3,7 @@ if(13-19)
 return"You are a teenager!"
 }
 else {
-  "undefined"
+  "You are not a teenager"
 }
 
 function teenager(age) {
